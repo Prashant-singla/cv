@@ -1,0 +1,23 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  border-color: lightgray;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 8px;
+}
+
+h1 {
+  color: #0F044C;
+  font-style: italic;
+}
+h2 {
+    color: #7B113A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+  color: #DA0037;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
